@@ -1,0 +1,66 @@
+"Title:","Added Sugar and Sweeteners from the Food Availability Database"
+"SubTitle:","USA - Category: Caloric Sweeteners - Per capita availability (teaspoons) - Demographic Indicator: Cane and Beet Sugar Deliveries, Raw"
+"Time:","1966 - 2017"
+"Unit of Measure:","Teaspoons (daily)"
+"Citation:","Economic Research Service, United States Department of Agriculture  (2019-10-16). Added Sugar and Sweeteners: Added Sugar and Sweeteners |  | Caloric Sweeteners - Per capita availability (teaspoons) | Cane and Beet Sugar Deliveries, Raw, 1966 - 2017. Data Planet? Statistical Datasets: A SAGE Publishing Resource. (Dataset). Dataset-ID:  008-006-001 doi:https://doi.org/10.6068/DP17CC243D62C75"
+"ColumnCount:","2"
+"RowCount:","52"
+
+"Time","USA"
+"1966",32.4
+"1967",32.8
+"1968",33
+"1969",33.6
+"1970",33.8
+"1971",33.9
+"1972",34
+"1973",33.5
+"1974",31.8
+"1975",29.6
+"1976",31
+"1977",31.3
+"1978",30.4
+"1979",29.7
+"1980",27.8
+"1981",26.4
+"1982",24.5
+"1983",23.4
+"1984",22.2
+"1985",20.9
+"1986",20
+"1987",20.7
+"1988",20.6
+"1989",20.9
+"1990",21.4
+"1991",21.1
+"1992",21.3
+"1993",21.2
+"1994",21.4
+"1995",21.6
+"1996",21.6
+"1997",21.6
+"1998",21.6
+"1999",22
+"2000",21.8
+"2001",21.4
+"2002",21
+"2003",20.2
+"2004",20.5
+"2005",20.9
+"2006",20.6
+"2007",20.3
+"2008",21.6
+"2009",21.1
+"2010",21.9
+"2011",21.9
+"2012",22.1
+"2013",22.6
+"2014",22.7
+"2015",23
+"2016",23.2
+"2017",23
+
+
+
+"Publisher:", "United States Department of Agriculture "
+"Copyright:", "The data contained in Data Planet(tm): A SAGE Publishing Resource is made available via license agreement with subscribing organizations. Your organization's license may vary from this version."
